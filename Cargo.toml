@@ -4,4 +4,4 @@ resolver = "2"
 
 [workspace.dependencies]
 thiserror = "2.0.12"
-vmm-sys-util = "0.14.0"
+vmm-sys-util = "0.12.1"
